@@ -6,3 +6,9 @@ My fav ice cream flavs:
 
 - Pepper Stick
 - Mint Chip
+
+Stevie's fav ice cream flavs:
+
+- Meal worm
+- Shrimp flakes
+- Sunflower seed
